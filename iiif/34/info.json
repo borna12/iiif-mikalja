@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 3333,
+    "height" : 5240
+  }, {
+    "width" : 5000,
+    "height" : 7860
+  }, {
+    "width" : 10000,
+    "height" : 15721
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 10000,
+  "@id" : "https://retrogram.jezik.hr/gramatike/mikalja/iiif/34",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 15721
+}
