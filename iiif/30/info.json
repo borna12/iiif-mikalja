@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 10000,
-  "@id" : "https://retrogram.jezik.hr/gramatike/mikalja/iiif/30",
+  "@id" : "https://borna12.github.io/iiif-mikalja/iiif/30",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 15469
 }
